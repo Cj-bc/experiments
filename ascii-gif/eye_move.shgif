@@ -1,0 +1,1 @@
+./draw.sh 20 20 src/eye.txt && ./draw.sh 50 20 src/eye.txt && sleep 1 && ./draw.sh 20 20 src/eye_close.txt && ./draw.sh 50 20 src/eye_close.txt && sleep 1 && ./draw.sh 20 20 src/eye.txt && ./draw.sh 50 20 src/eye.txt
